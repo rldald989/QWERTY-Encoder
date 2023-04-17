@@ -1,0 +1,3 @@
+To use the QWERTY Encoder/Decoder, first open the MsgToEncode.qwerty, then type in the message you would like to encode, then, if you would like to decode a message from a friend, just put the message in the generated EncodedMsg.qwerty file(to generate, leave MsgToEncode.qwerty blank) and then type in the encoded message. To decode the message, just run Decoder.exe and it will generate DecodedMsg.qwerty, open up this file to see the decoded message.
+
+PROGRAM BY RLDALD989 - DO NOT MODIFY THIS README FILE IF TO DISTRIBUTE
